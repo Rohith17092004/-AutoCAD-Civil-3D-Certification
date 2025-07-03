@@ -1,6 +1,6 @@
 # AutoCAD-Civil-3D-Certification
 
-![Certificate](![AutoCAD Civil 3D Certification](https://github.com/user-attachments/assets/11bff124-01f1-44c0-a582-86624224a169)
+(![AutoCAD Civil 3D Certification](https://github.com/user-attachments/assets/11bff124-01f1-44c0-a582-86624224a169)
 )
 
 **Name:** Banoth Rohith  
